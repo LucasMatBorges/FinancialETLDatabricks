@@ -34,18 +34,6 @@ This project demonstrates an ETL (Extract, Transform, Load) pipeline implemented
 3. **Data Quality Checks**: Implement quality checks to ensure data integrity.
 4. **Data Load**: Write the final transformed data to Delta Tables in the Databricks Catalog.
 
-### Functions
-
-- **remove_leading_zeros(client_number)**: Removes leading zeros from client numbers.
-- **convert_to_yn(value)**: Converts 'yes'/'no' values to 'Y'/'N'.
-- **to_int(val)**: Converts a value to integer.
-- **to_decimal(val)**: Converts a value to decimal.
-- **to_date(value)**: Converts a string to a date.
-- **calculate_amount_eur(original_amount, original_currency, exchange_rate)**: Calculates the amount in EUR.
-- **yn_to_bool(val)**: Converts 'Y'/'N' to boolean.
-- **determine_enterprise_size(num_employees)**: Determines the enterprise size based on the number of employees.
-- **calculate_secured_amount(df)**: Calculates the secured amount for each client.
-
 ## Setup
 
 ### Prerequisites
