@@ -42,14 +42,14 @@ This project demonstrates an ETL (Extract, Transform, Load) pipeline implemented
 
                                  Data Ingestion > Create or Modify table > Paste the File > Give a Table > Create Table 
 
-  <div style="text-align: center;">
+  <div align="center"">
   <img src="https://github.com/LucasMatBorges/FinancialETLDatabricks/assets/11663404/45626f15-6c48-4e4a-a46f-6c0eaefb96bf" alt="Descrição da Imagem" width="800"/>
   </div>
 
 2. **Upload of the Notebook and modules on Databricks Workspace**  
    Make the upload of the files all in the same folder:
 
-  <div style="text-align: center;">
+  <div align="center"">
   <img src="https://github.com/LucasMatBorges/FinancialETLDatabricks/assets/11663404/720ad514-043b-4ca5-98ef-47ee1ed3a45a" alt="Descrição da Imagem" width="800"/>
   </div>
 
@@ -74,7 +74,7 @@ This project demonstrates an ETL (Extract, Transform, Load) pipeline implemented
    All the modules created and used in the ETL Process were tested by a separeted Notebook
    - Run the Notebook 'Unit Testing with Pytest'
   
-<div style="text-align: center;">
+<div align="center"">
   <img src="https://github.com/LucasMatBorges/FinancialETLDatabricks/assets/11663404/f5d79ca3-1985-4812-895b-7baf7988fa9c" alt="Descrição da Imagem" width="600"/>
 </div>
 
