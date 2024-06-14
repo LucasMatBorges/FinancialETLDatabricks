@@ -1,4 +1,4 @@
-![image](https://github.com/LucasMatBorges/FinancialETLDatabricks/assets/11663404/ba997a5c-96ff-4025-a0a6-a2b3274ce978)# Databricks ETL Pipeline Project
+# Databricks ETL Pipeline Project
 
 ## Overview
 
