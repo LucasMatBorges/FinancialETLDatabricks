@@ -36,13 +36,6 @@ This project demonstrates an ETL (Extract, Transform, Load) pipeline implemented
 
 ## Setup
 
-### Prerequisites
-
-- Databricks account
-- Databricks CLI installed and configured
-- Python 3.x
-- Git
-
 ### Installation
 
 1. **Clone the repository:**
