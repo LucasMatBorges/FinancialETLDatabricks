@@ -1,4 +1,4 @@
-# Databricks ETL Pipeline Project
+![image](https://github.com/LucasMatBorges/FinancialETLDatabricks/assets/11663404/ba997a5c-96ff-4025-a0a6-a2b3274ce978)# Databricks ETL Pipeline Project
 
 ## Overview
 
@@ -37,6 +37,9 @@ This project demonstrates an ETL (Extract, Transform, Load) pipeline implemented
 ## Setup
 
 ### Installation
+
+![image](https://github.com/LucasMatBorges/FinancialETLDatabricks/assets/11663404/c0713e78-f305-43a5-9970-f825ebd38699)
+
 
 1. **Clone the repository:**
    ```sh
