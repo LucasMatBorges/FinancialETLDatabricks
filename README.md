@@ -41,13 +41,17 @@ This project demonstrates an ETL (Extract, Transform, Load) pipeline implemented
    Make the Ingestion of the Data Files in the Catalog, creating a Table for each of the files: `Source1`, `Source2`, `Exchanges_Rates` and `Client_Secured_Ind`;  
 
                                  Data Ingestion > Create or Modify table > Paste the File > Give a Table > Create Table 
-  
-![image](https://github.com/LucasMatBorges/FinancialETLDatabricks/assets/11663404/45626f15-6c48-4e4a-a46f-6c0eaefb96bf)
+
+  <div style="text-align: center;">
+  <img src="https://github.com/LucasMatBorges/FinancialETLDatabricks/assets/11663404/45626f15-6c48-4e4a-a46f-6c0eaefb96bf" alt="Descrição da Imagem" width="800"/>
+  </div>
 
 2. **Upload of the Notebook and modules on Databricks Workspace**  
    Make the upload of the files all in the same folder:
 
-![image](https://github.com/LucasMatBorges/FinancialETLDatabricks/assets/11663404/720ad514-043b-4ca5-98ef-47ee1ed3a45a)
+  <div style="text-align: center;">
+  <img src="https://github.com/LucasMatBorges/FinancialETLDatabricks/assets/11663404/720ad514-043b-4ca5-98ef-47ee1ed3a45a" alt="Descrição da Imagem" width="800"/>
+  </div>
 
 4. **Install the Pytest in the Compute Engine**
    Inside the Compute Menu, select the desired Cluster and go to Libraries:
