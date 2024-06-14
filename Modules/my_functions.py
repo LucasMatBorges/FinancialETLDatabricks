@@ -1,5 +1,3 @@
-# my_functions.py
-
 import pandas as pd
 from decimal import Decimal
 from pyspark.sql.types import StringType, IntegerType, DateType
